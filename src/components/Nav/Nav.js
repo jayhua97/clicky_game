@@ -3,7 +3,7 @@ import "./Nav.css";
 
 const Nav = props => (
     <nav className="navbar navbar-expand-lg navbar-light">
-        <a className="navbar-brand" href="#">{props.title}</a>
+        <a className="navbar-brand" href="/">{props.title}</a>
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ml-auto">
 
